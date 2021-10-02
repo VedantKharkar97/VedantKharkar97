@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VedantKharkar97
-- 👀 I’m interested in Python,Web Developing,Djnago,Data Science etc.
+- 👀 I’m interested in Python,Web Developing,Django,Data Science etc.
 - 🌱 I’m currently pursuing B.E Computer Engineering from SPPU .
 - 📫 How to reach me... email:vedantk97@gmail.com
 
